@@ -1,1 +1,1 @@
-# Place both files on home dir
+# Place all 3 files on home dir (cd ~)
