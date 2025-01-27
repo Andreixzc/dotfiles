@@ -67,4 +67,3 @@ nnoremap <F3> gg=G
 
 " Or for automatic formatting on save
 autocmd BufWritePre *.cpp :%!clang-format
-
